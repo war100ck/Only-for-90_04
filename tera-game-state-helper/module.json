@@ -4,6 +4,5 @@
     "author": "Caali",
     "description": "Helper module for tera-game-state.",
     "version": "1.0",
-    "servers": ["https://raw.githubusercontent.com/war100ck/Only-for-90_04/master/tera-game-state-helper/"],
-    "disableAutoUpdate": false
+    "servers": ["https://raw.githubusercontent.com/war100ck/Only-for-90_04/master/tera-game-state-helper/"]
 }
