@@ -1,1 +1,3 @@
 https://raw.githubusercontent.com/war100ck/others/master/Custom-Font/module.json
+https://raw.githubusercontent.com/war100ck/others/master/DPS-Monitor_EN/module.json
+https://raw.githubusercontent.com/war100ck/others/master/command/module.json
