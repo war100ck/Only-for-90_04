@@ -2,3 +2,5 @@ https://raw.githubusercontent.com/war100ck/others/master/Custom-Font/module.json
 https://raw.githubusercontent.com/war100ck/others/master/DPS-Monitor_EN/module.json
 https://raw.githubusercontent.com/war100ck/others/master/command/module.json
 https://raw.githubusercontent.com/war100ck/others/master/tera-message/module.json
+https://raw.githubusercontent.com/war100ck/others/master/DG-teleport-RU/module.json
+https://raw.githubusercontent.com/war100ck/others/master/TP-teleport-RU/module.json
