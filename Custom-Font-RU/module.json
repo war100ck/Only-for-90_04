@@ -1,13 +1,8 @@
 {
-    "disableAutoUpdate": false,
-    "name": "Custom-Calypso-Font",
-    "category": "client",
-    "description": "",
-    "author": "",
-    "options": {
-        "niceName": "Custom-Calypso-Font",
-        "guiName": "Custom-Calypso-Font"
-    },
+    "name": "Calypso-Font",
+    "author": "Caali",
+    "description": "Tracks the game's current state and provides a high-level API for developers to base their mods on.",
+    "version": "1.0",
     "servers": ["https://raw.githubusercontent.com/war100ck/Only-for-90_04/master/Custom-Font-RU/"],
-    "version": "RU v92.04"
+    "disableAutoUpdate": false
 }
