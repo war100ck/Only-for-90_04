@@ -1,12 +1,12 @@
 {
     "disableAutoUpdate": false,
-    "name": "Сustom-Font",
+    "name": "Custom-Calypso-Font",
     "category": "client",
     "description": "Читабельный шрифт",
     "author": "",
     "options": {
-        "niceName": "Calypso-Font (Читабельный шрифт)",
-        "guiName": "Calypso-Font (Читабельный шрифт)"
+        "niceName": "Custom-Calypso-Font (Читабельный шрифт)",
+        "guiName": "Custom-Calypso-Font (Читабельный шрифт)"
     },
     "servers": ["https://raw.githubusercontent.com/war100ck/Only-for-90_04/master/Font-RU/"],
     "version": "RU v92.04"
